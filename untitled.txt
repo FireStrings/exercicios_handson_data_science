@@ -1,0 +1,42 @@
+Bom, vamos lá:
+
+Decidi esperar 1 semana para poder testar e ter uma impressão completa do produto, até para dar uma avaliação justa ao vendedor e útil para outros compradores. Portanto, vou dividir a avaliação em uma partes específicas:
+
+Envio
+Bem, o envio foi super rápido (parabéns ao vendedor pela agilidade), coisa de 2 dias e meio, e o pacote chegou bem embalado, tudo certo, nada quebrado.
+
+- Constituição
+Já vou começar essa seção dizendo que sim, esse é original. Fiquei meio receoso antes da compra, porque vi que era bem comum algumas pessoas comprarem um "clone", que é bem parecido com o original. Mas não tenham medo, esse é legítimo.
+
+Ele é leve, se encaixa bem na mão, mas pode causar um certo desconforto depois de um tempo, principalmente se você não tem mãos muito pequenas. Os botões respondem bem, mas senti uma certa resistência, principalmente nos botões start/reset/function e os L/R's. Porém, entendo que, dado o valor do produto ser bem baixo, imagino que não de pra construir algum mais fluido ao pressionar, com as melhores peças disponíveis, e  ainda assim manter o mesmo preço. 
+
+Sobre os analógicos, apesar de não gostar muito da dinâmica de analógicos como um todo, achei legal a presença deles, para ser mais uma opção de controle, mas achei um pouco "raso", ou seja, o botão em si é muito próximo do plástico do console, então as vezes me da a sensação de que meu dedo vai escapar do botão ao fazer o movimento. 
+
+- Áudio
+O som não é o melhor, mas achei legal porque já te insere naquela vibe de 8-bits, então na verdade acabou virando um ponto positivo.
+
+Os botões de volume também apresentam a mesma resistência já mencionada anteriormente, mas nada que atrapalhe o play.
+
+Sobre a presença do fone P2, achei muito legal, aliás, importante.
+
+-Video
+O video realmente é muito bom. Vi alguns reviews antes de comprar, e foi um consenso geral sobre a qualidade do video do console. Tem um controle de brilho que inclusive da pra acessar via atalho (não vou lembrar a combinação de teclas agora), o que pode facilitar a ação durante o game play. O tamanho da tela é bom, acho que ara um portátil, é o ideal.
+
+-Software
+Bom, o ArchOS roda bem, fluído, mas 2 ou 3 vezes travou na tela de seleção do game (aliás, uma delas foi na tela de configurações). Houve vezes de travar também em alguns games (isso foi um pouco mais frequente). Mas o curioso é que, no meu caso foi mais no começo. Ao passo que ia usando, parou de acontecer isso. Mas atribuo isso também a qualidade do micro sd que vem (falarei em breve sobre ele) e o Arch OS meio antigo que vem no console.
+
+Uma coisa que eu acredito que seria útil inserir no anúncio (não sei se já tem) é sobre o sistema operacional que vem, porque, apesar dele vir com o ArkOS 2.0, a mesma versão do sistema mais atual disponível, a data de lançamento descrita nas configurações é 23/04/2022, e a ultima release do sistema foi 03/30/2025 (não entendi o 2.0 para os dois ai, enfim...), o que impacta diretamente na performance dos games.
+
+-Hardware
+Bom, como mencionado, irei falar sobre o micro SD que vem com o produto. Novamente, entendo que, pelo preço, não daria para enviar junto ao console um micro SD com qualidade melhor, mas falando por mim, preferiria pagar um pouco mais e receber um armazenamento melhor, dado que é algo crítico (é simplesmente onde ta a "alma" do portátil), você é praticamente obrigado a comprar um novo micro SD e fazer todo o processo de atualização, caso não queria se arriscar a perder todo o sistema e as ROMS. Contudo, não sei se é algo que deveria ser feito a partir do vendedor ou do fabricante (imagino que seja responsabilidade deste último). Portanto, para ser justo com o vendedor, não atribuo esse ponto a ele, mas especificar no anúncio também seria ótimo, uma vez que a grande parte das pessoas não vai entender que aquele micro SD é um produto genérico, e ao invés de comprar um novo micro SD, vai simplesmente jogar, o que pode prejudicar a experiência do usuário caso o armazenamento corrompa.
+
+Em relação as configurações de processador, memória e afins, acho que é uma ótima configuração para a maioria dos games que tem ali, então tudo certo aqui.
+
+Bom, resumindo:
+- Indicaria para alguém comprar? SIM. Apesar do pontos que trouxe, é um produto legal e com custo-benefício excelente.
+- Vendedor está de parabéns, só daria a dica para colocar no anúncio os pontos que mencionei.
+- Novamente, esse é original, podem comprar sem medo. Só fiquem de olho na questão do micro SD, minha sugestão é que comprem um de uma marca melhor e atualizem o console para a mais recente versão do ArkOS.
+
+É isso, espero que seja útil para outros compradores e para o vendedor. 
+
+Abraço!
